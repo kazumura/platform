@@ -310,7 +310,7 @@ language. Jakarta Enterprise Beans 2.x API group.]
 |-
 |OPT
 
-|SOAP with Attachments 2.0
+|SOAP with Attachments
 |Y
 |Y
 |Y
