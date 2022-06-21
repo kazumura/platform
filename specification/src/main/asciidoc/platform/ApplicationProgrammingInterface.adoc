@@ -98,7 +98,7 @@ technology is required (REQ), proposed optional (POPT), or optional
 (OPT). Each Jakarta EE profile specification will include a similar table
 describing which technologies are required for the profile. Note that
 some technologies are marked Optional, as described in the next section.
-Please see the table in the section Application Programming Interface for the specific versions required for each component.
+Please see <<a3252, Full Jakarta™ EE Product Requirements>> for the specific versions required for each component.
 
 *Note:* Jakarta EE 9 introduced the concept of "removed" technologies.
 This is the final stage of a technology's lifecycle where the technology is
